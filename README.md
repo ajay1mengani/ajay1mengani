@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development using Django**
 
-- 💬 Ask me about **Django,Java,JavaScript**
+- 💬 Ask me about **Python and Frameworks, Java, Web Development**
 
 - 📫 How to reach me **ajay1mengani@gmail.com**
 
