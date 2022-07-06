@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay1mengani&label=Profile%20views&color=0e75b6&style=flat" alt="ajay1mengani" /> </p>
-
 - 🌱 I’m currently exploring **Data Science**
 
 - 👯 I’m looking to collaborate on **Web Development using Django**
