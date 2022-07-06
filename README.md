@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **ajay1mengani@gmail.com**
 
+- ⚡ Fun fact **Been thinking in 1's and 0's**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -23,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay1mengani&show_icons=true&locale=en" alt="ajay1mengani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay1mengani&" alt="ajay1mengani" /></p>
-
